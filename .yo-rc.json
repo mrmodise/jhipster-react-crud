@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mrmodise"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "crud",
+    "packageName": "com.mrmodise",
+    "packageFolder": "com/mrmodise",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDhkNjcyMGFkNTgzMDYwY2Y3NzgxY2E3NGU4ODgzMTc2ODdkOGE4YjlmYzhhZDk5NmI0Njc3MWQzM2U0YmI0MGYwNGM3MjJjZDZkNTUxOGFlYzc3ODQxNDc5NTRjMzcyMjQwMDUzYzZhM2NlNDU4ZGNhY2IwMmI0YTc1M2M4ZDk=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
